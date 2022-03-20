@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📱 I currently work as a Backend Developer.
 - 💻 You can find me immersed in upskilling PHP, Javascript, Symfony, Laravel, VueJS, and other areas.
 - 🌱 I’m currently learning Rust, Solana
-- - 🌱 I’m currently learning Flutter Dart
+- 🌱 I’m currently learning Flutter Dart
 - 💬 Ask me about Symfony, Laravel.
 - 👯 I’m looking to collaborate on any Interesting Project.
 - ⚡  I aim to create productive awareness about tech in people around me.
