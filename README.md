@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-white.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vuejs](https://img.shields.io/badge/vuedotjs-%4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vuejs](https://img.shields.io/badge/vuejs-%4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 # 📊GitHub Stats :
 
